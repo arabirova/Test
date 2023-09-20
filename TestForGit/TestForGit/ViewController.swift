@@ -23,7 +23,7 @@ class ViewController: UIViewController {
         title = "Конфликтующий тайтл"
         
         nameLabel.text = "Sasha, hi"
-        nameLabel.font = .boldSystemFont(ofSize: 15)
+        nameLabel.font = .boldSystemFont(ofSize: 14)
     }
 
 
