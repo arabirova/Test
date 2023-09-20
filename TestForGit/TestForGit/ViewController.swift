@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         print("Hello git3!")
         view.backgroundColor = .black
 
-        
+        title = "Конфликтующий тайтл"
     }
 
 
